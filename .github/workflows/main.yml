@@ -28,4 +28,4 @@ jobs:
           context: .
           push: true
           # Đặt tên tag cho Image. Cấu trúc: <dockerhub-username>/<tên-image>:<tag>
-          tags: ${{ secrets.DOCKER_USERNAME }}/spring-boot-app:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/duanjava:latest

@@ -7,3 +7,4 @@ docker push phamducthanh/duanjava:latest
 docker run -d -p 8080:8080 phamducthanh/duanjava:latest
 # dung
 docker stop <id>
+# pham duc thanh
